@@ -1,0 +1,3 @@
+{"type":"entity","name":"Ed","entityType":"person","observations":["Ed is an LLM engineer.","Ed is teaching a course about AI Agents.","Ed is interested in the MCP protocol."]}
+{"type":"entity","name":"AI Agents course","entityType":"course","observations":["A course taught by Ed about AI Agents.","The course includes the MCP protocol."]}
+{"type":"entity","name":"MCP protocol","entityType":"protocol","observations":["MCP stands for Model Context Protocol.","MCP connects agents with tools, resources, and prompt templates.","MCP makes it easier to integrate AI agents with capabilities."]}
